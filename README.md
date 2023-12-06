@@ -1,6 +1,6 @@
 - [ ] stm32 FREE RTOS
 ***
-- [ ] C pointer
+- [X] C pointer
 ***
 - [ ] stm32 UART
 ***
