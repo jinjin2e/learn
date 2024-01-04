@@ -10,5 +10,6 @@
 ***
 - [ ] i2c module(IC)
 ***
-- [ ]  wifi communication  
----
+- [ ] wifi communication  
+***
+- [x] BLE 
