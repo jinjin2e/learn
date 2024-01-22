@@ -2,11 +2,11 @@
 ***
 - [X] C pointer
 ***
-- [ ] stm32 UART
+- [x] stm32 UART
 ***
 - [ ] stm32 SPI
 *** 
-- [ ] iar embedded workbench (?)
+- [x] iar embedded workbench (?)
 ***
 - [ ] i2c module(IC)
 ***
