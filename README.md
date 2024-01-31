@@ -12,4 +12,6 @@
 ***
 - [ ] wifi communication  
 ***
-- [x] BLE 
+- [x] BLE
+***
+- [ ] NEW PROJECT{...} 
