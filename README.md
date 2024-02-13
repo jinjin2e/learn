@@ -16,4 +16,4 @@
 ***
 - [ ] NEW PROJECT{...} 
 ***
-- [ ] Embedded L
+- [ ] Embedded Linux
