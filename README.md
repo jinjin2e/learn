@@ -17,3 +17,5 @@
 - [ ] NEW PROJECT{...} 
 ***
 - [ ] Embedded Linux
+***
+- [ ] esp32
